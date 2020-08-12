@@ -1,0 +1,33 @@
+body{
+    background-image: url(../IMG/lawbody1.jpg);
+    /* background-position: justify; */
+    /* background-repeat: no-repeat; */
+}
+#quiz1{
+    font-family: cursive;
+    font-size: 15px;
+}
+#quiz1 ul{
+    list-style-type: lower-alpha;
+}
+.btn{
+    font-family: cursive;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.btn :hover{
+    background-color: darkslategrey;
+    color: oldlace;
+}
+.p1{
+    font-weight: bold;
+    font-size: 16px;
+}
+ul :hover{
+    background-color: darkslategrey;
+    color: oldlace;
+    border-radius:40px;
+}
