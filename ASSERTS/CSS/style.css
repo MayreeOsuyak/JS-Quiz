@@ -31,3 +31,21 @@ ul :hover{
     color: oldlace;
     border-radius:40px;
 }
+
+.footer{
+    background-color: rgb(38, 38, 136);
+    color: white;
+    text-align: center;
+}
+
+.btn-submit{
+  background-color: blueviolet;
+  color: white;
+  border-radius: 5px;
+  height: 40px;
+  width: 100px; 
+}
+
+.btn-submit:hover{
+    background-color: thistle;
+}
