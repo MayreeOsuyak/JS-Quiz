@@ -15,7 +15,7 @@ let j = 0;
 function analyse(){
    passed = Number(a+c+e+g+i);
    failed = Number(b+d+f+h+j);
-   Total = Number(a+c+e+g+i)*10;
+   Total = Number(a+c+e+g+i)*20;
    document.getElementById("incorrect").innerHTML = "Number of questions failed: " + failed;
    document.getElementById("correct").innerHTML = "Number of questions passed: "  + passed;
    document.getElementById("total").innerHTML = "Total Score: " + Total + "%" ;
